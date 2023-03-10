@@ -1,11 +1,12 @@
 package quiz.array
 
+import java.util.StringTokenizer
+
 /*   백준 10813 공 바꾸기
      문제: https://www.acmicpc.net/problem/10813
      결과: https://www.acmicpc.net/source/56421284
 */
 
-import java.util.StringTokenizer
 
 fun main() {
     val n: Int

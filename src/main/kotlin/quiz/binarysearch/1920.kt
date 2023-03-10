@@ -13,7 +13,7 @@ private fun binarySearch(array: IntArray, value: Int): Int {
     var upper = array.size - 1
 
     while (lower <= upper) {
-        val mid = (upper + lower).div(2)
+        val mid = (upper + lower) / 2
 
         if (value == array[mid]) {
             return 1
