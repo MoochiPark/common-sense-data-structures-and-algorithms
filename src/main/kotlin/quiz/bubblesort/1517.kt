@@ -2,6 +2,11 @@ package quiz.bubblesort
 
 import java.io.StreamTokenizer
 
+/*   백준 1517 버블 소트
+     문제: https://www.acmicpc.net/problem/1517
+     결과: https://www.acmicpc.net/source/58170835
+*/
+
 fun main() = StreamTokenizer(System.`in`.bufferedReader()).run {
     fun readInt(): Int {
         nextToken()
