@@ -1,5 +1,10 @@
 package quiz.insertionsort
 
+/*   백준 24056 알고리즘 수업 - 삽입 정렬 6
+     문제: https://www.acmicpc.net/problem/24056
+     결과: (시간 초과)
+*/
+
 import java.io.StreamTokenizer
 
 fun main() = StreamTokenizer(System.`in`.bufferedReader()).run {
