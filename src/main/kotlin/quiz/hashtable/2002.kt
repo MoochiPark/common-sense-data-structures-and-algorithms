@@ -24,3 +24,6 @@ fun main() = with(System.`in`.bufferedReader()) {
     }
     print(answer)
 }
+
+// a b c d
+// c b a d
